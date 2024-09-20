@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9a5466f-3cb4-4eb1-b31c-91c7ecec5fb2/deploy-status?branch=main)](https://app.netlify.com/sites/budget-app-project/deploys)
+
 # Budget-app-project
  Budget Application project built using vanilla Javascript
  
